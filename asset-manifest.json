@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d08725e5.chunk.css",
-    "main.js": "/static/js/main.793332b9.chunk.js",
-    "main.js.map": "/static/js/main.793332b9.chunk.js.map",
+    "main.js": "/static/js/main.fdb103bd.chunk.js",
+    "main.js.map": "/static/js/main.fdb103bd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
     "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
     "static/css/2.c68f14bc.chunk.css": "/static/css/2.c68f14bc.chunk.css",
@@ -28,7 +28,7 @@
     "static/media/TDA001.75e900da.jpg": "/static/media/TDA001.75e900da.jpg",
     "static/media/avatar.e9b99928.jpg": "/static/media/avatar.e9b99928.jpg",
     "static/media/index.css": "/static/media/home-img.4dcbc3f9.jpg",
-    "static/media/morello-juan-agustin-cv.6f1899a2.pdf": "/static/media/morello-juan-agustin-cv.6f1899a2.pdf",
+    "static/media/morello-juan-agustin-cv.88b3ef86.pdf": "/static/media/morello-juan-agustin-cv.88b3ef86.pdf",
     "static/media/portada001.87e21848.jpg": "/static/media/portada001.87e21848.jpg",
     "static/media/portada002.2402053f.jpg": "/static/media/portada002.2402053f.jpg",
     "static/media/portada003.b544adc2.jpg": "/static/media/portada003.b544adc2.jpg",
@@ -50,6 +50,6 @@
     "static/css/2.c68f14bc.chunk.css",
     "static/js/2.f7479912.chunk.js",
     "static/css/main.d08725e5.chunk.css",
-    "static/js/main.793332b9.chunk.js"
+    "static/js/main.fdb103bd.chunk.js"
   ]
 }
